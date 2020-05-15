@@ -14,15 +14,18 @@ Guess I like hackintosh more than Gaming graphic card :D
 * CR sleele blog
 
 # Hardware Details:
-* Intel Core i5-9600 3.70GHz(NO **K** version) same boost frequency as 9600K
-* ASRock Z370 Killer/ac (BIOS Version: 4.30)
-* ADATA DDR4 3200 32GB (8G×4)
-* Intel UHD Graphics 630
-* AMD Sapphire RX580 8G 1366Mhz
-* nVidia 1080Ti (nvdiable = 1)
-* LITEON SSD 512GB MLC SATA (macOS 10.15.4)
-* Lenovo SSD 512GB TLC NVME (Windows 10)
-* BCM94360CS2 (3 wire) bad bluetooth performance
+| Parts | Model |
+|  :----  | :----  |
+| CPU    | Intel Core i5-9600 3.70GHz(NO **K** version) same boost frequency as 9600K |
+| GPU0  | Intel UHD Graphics 630 |
+| GPU1  | AMD Sapphire RX580 8G 1366Mhz |
+| Board  | ASRock Z370 Killer/ac (BIOS Version: 4.30) |
+| DRAM   | ADATA DDR4 3200 32GB (8G×4) |
+| SSD1   | Lenovo SSD 512GB TLC NVME (Windows 10) |
+| SSD2  | LITEON SSD 512GB MLC SATA (macOS 10.15.4) |
+| WiFi  | BCM94360CS2 (3 wire) bad bluetooth performance |
+* *nVidia 1080Ti (nvdiable = 1)
+
 
 # BIOS
 * 

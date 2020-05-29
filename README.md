@@ -1,4 +1,5 @@
-# [目前还未调试完成，等待更新ing]ASRock-Z370Killer-AC-OpenCore-Hackintosh
+# [目前还未调试完成，等待更新ing]
+# ASRock-Z370Killer-AC-OpenCore-Hackintosh
 ASRock-Z370Killer-AC-OpenCore 黑苹果
 Dual GPU：
 * AMD Sapphire RX580 in **1st** PCIe slot  
